@@ -1,4 +1,3 @@
-# Me
 <!--
   Gegrillt - Profile README
   Minimal theme, black/red/yellow accent, fun emojis!
